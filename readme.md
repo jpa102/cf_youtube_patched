@@ -1,6 +1,6 @@
 # cf_youtube_patched
 
-or known as custom filters for patched youtube (and yt music)
+or known as custom filters for patched youtube (and yt music) using [revanced](https://revanced.app), [morphe](https://morphe.software), and [reseam](https://reseam.app)
 
 you don't like a specific element displayed? you can now make them disappear!
 
