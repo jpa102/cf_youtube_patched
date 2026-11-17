@@ -1,12 +1,12 @@
 # cf_youtube_patched
 
-or known as custom filters for youtube (and yt music)
+or known as custom filters for patched youtube (and yt music)
 
-you don't like a speficic element displayed? you can now make them disappear!
+you don't like a specific element displayed? you can now make them disappear!
 
 # the limitation
 
-internally, youtube uses litho for the ui. see https://fblitho.com for more info about this framework
+internally, youtube uses litho framework for the ui. see https://fblitho.com for more info about this framework
 
 what this means is some elements cannot be hidden using custom filters alone. this is where direct complex ui editing in the code comes into play which is out of reach for us regular users
 
